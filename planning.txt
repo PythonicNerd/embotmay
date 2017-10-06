@@ -1,0 +1,6 @@
+
+main.js - Controll everything, clicks, and preses buttons to get answers
+
+librarys{
+  -webster dictionary;
+ }
